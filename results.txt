@@ -1,0 +1,4 @@
+Accuracy on testSet: 0.7364185110663984
+Accuracy on trainingSet: 0.9498997995991983
+Accuracy on testSet: 0.7364185110663984
+Accuracy on trainingSet: 0.9498997995991983
