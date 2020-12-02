@@ -1,4 +1,4 @@
-CS331 Naive Bayes' Net
+# CS331 Naive Bayes' Net
 
 ### Description
 
